@@ -20,5 +20,4 @@
 2. `npm run dev`
 3. Abrir http://localhost:5173
 
-## Professor, deixei tudo em um zip aí, não sabia muito bem como voce queria esses arquivos
-## então se estiver algo errado é porque eu não sabia mesmo como era pra mandar.
+## Professor, deixei tudo em um zip aí, não sabia muito bem como voce queria esses arquivos, então se estiver algo errado é porque eu não sabia mesmo como era pra mandar.
